@@ -8,6 +8,7 @@ DOMAIN-suffix, openaboc.com.cn
 DOMAIN-suffix, openaboc.com.cn
 DOMAIN-suffix, cmbchina.com
 DOMAIN-suffix, cmbimg.com
+DOMAIN-suffix, unionpay.com
 # 内容：Bilibili 哔哩哔哩
 # 数量：23条
 USER-AGENT,Bilibili*
