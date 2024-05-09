@@ -16,6 +16,12 @@ DOMAIN-suffix, 95508.com
 DOMAIN-suffix, tencentcloudapi.com
 DOMAIN-suffix, 95516.com
 DOMAIN-suffix, nanhaibank.com
+# 内容：抖音商城
+DOMAIN-suffix, ecombdimg.com
+# 内容：西瓜视频
+DOMAIN-suffix, bdxiguavod.com
+# 内容：aptv
+DOMAIN-suffix, epg.112114.eu.org
 # 内容：Bilibili 哔哩哔哩
 # 数量：23条
 USER-AGENT,Bilibili*
