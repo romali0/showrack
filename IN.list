@@ -20,6 +20,11 @@ DOMAIN-suffix, nanhaibank.com
 DOMAIN-suffix, ecombdimg.com
 # 内容：西瓜视频
 DOMAIN-suffix, bdxiguavod.com
+# 内容：大疆
+DOMAIN-suffix, volceapplog.com
+DOMAIN-suffix, djiops.com
+DOMAIN-suffix, djiservice.org
+DOMAIN-suffix, djigate.com
 # 内容：aptv
 DOMAIN-suffix, epg.112114.eu.org
 # 内容：Bilibili 哔哩哔哩
